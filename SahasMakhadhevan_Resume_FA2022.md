@@ -44,10 +44,12 @@ sahas.makhadhevan@gmail.com
 - Technologies: Java, Spring Boot, Gradle, HTML/CSS, Bootstrap
 -----
 ## **EDUCATION**
-**The Pennsylvania State University**, PA — B.S. Computer Science              		      Current GPA: 3.79
+**The Pennsylvania State University**, PA — B.S. Computer Science              		      
 
-`    `June 2020 - Present					 		       Expected Graduation: May 2024
+`    `June 2020 - Present					 		       
 
+- Expected Graduation: May 2024
+- Current GPA: 3.79
 - Bachelor of Science in Computer Science
 - Minor in Information Science and Technology
 - Made the Dean’s List every semester
