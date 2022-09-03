@@ -4,7 +4,7 @@ Solution-oriented Computer Science major at Penn State University with extensive
 
 -----
 
-(213) 347-9692 | sahas.makhadhevan@gmail.com
+sahas.makhadhevan@gmail.com
 
 205 Levashire Heights, Apt 104, State College, PA 16803
 
