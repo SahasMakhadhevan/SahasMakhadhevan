@@ -4,7 +4,7 @@ Solution-oriented Computer Science major at Penn State University with extensive
 
 -----
 
-(213) 347-9692 | sahas.makhadhevan@gmail.com
+sahas.makhadhevan@gmail.com
 
 205 Levashire Heights, Apt 104, State College, PA 16803
 
@@ -44,10 +44,12 @@ Solution-oriented Computer Science major at Penn State University with extensive
 - Technologies: Java, Spring Boot, Gradle, HTML/CSS, Bootstrap
 -----
 ## **EDUCATION**
-**The Pennsylvania State University**, PA — B.S. Computer Science              		      Current GPA: 3.79
+**The Pennsylvania State University**, PA — B.S. Computer Science              		      
 
-`    `June 2020 - Present					 		       Expected Graduation: May 2024
+`    `June 2020 - Present					 		       
 
+- Expected Graduation: May 2024
+- Current GPA: 3.79
 - Bachelor of Science in Computer Science
 - Minor in Information Science and Technology
 - Made the Dean’s List every semester
