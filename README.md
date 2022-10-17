@@ -3,7 +3,7 @@
 
 - Ask me about **my Music Store Application**
 
-- How to reach me **sahas.makhadhevan@gmail.com**
+- How to reach me **me@sahasmakhadhevan.com**
 
 - Know about my experiences [https://github.com/SahasMakhadhevan/SahasMakhadhevan/blob/master/SahasMakhadhevan_Resume_FA2022.md](https://github.com/SahasMakhadhevan/SahasMakhadhevan/blob/master/SahasMakhadhevan_Resume_FA2022.md)
 
